@@ -31,7 +31,7 @@ export default function Calculator() {
         <Text
           fontSize={{ base: 'sm', sm: 'md' }}
           color={useColorModeValue('gray.800', 'gray.400')}>
-          You&apos;ll get an email with a reset link test
+          You&apos;ll get an email with a reset link test 2
         </Text>
         <FormControl id="email">
           <Input
